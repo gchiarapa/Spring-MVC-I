@@ -17,6 +17,8 @@
         		alert("${sucesso }")
 			}
 		</script>
+		
+		<div>${falha }</div>
 
 	
 <%-- 		<div>${sucesso }</div> --%>
